@@ -89,25 +89,6 @@
 </p>
 
 
-
----
-
-
-
-## 📊 GitHub Stats
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Vrinda-Siddhpura&show_icons=true&theme=radical" height="150"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrinda-Siddhpura&layout=compact&theme=radical" height="150"/>
-
-</p>
-
-
-
 ---
 
 
