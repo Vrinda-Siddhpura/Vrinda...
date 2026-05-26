@@ -74,11 +74,6 @@ class Vrinda:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vrinda-Siddhpura&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrinda-Siddhpura&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrinda-Siddhpura&theme=midnight-purple&hide_border=true" width="60%" />
 </div>
 
