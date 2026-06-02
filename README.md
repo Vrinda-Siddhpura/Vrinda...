@@ -1,5 +1,3 @@
-<div align="center">
- 
 ```
 ██╗   ██╗██████╗ ██╗███╗   ██╗██████╗  █████╗
 ██║   ██║██╔══██╗██║████╗  ██║██╔══██╗██╔══██╗
@@ -9,6 +7,8 @@
   ╚═══╝  ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝
 ```
 
+<div align="center">
+ 
 ### `< turning caffeine into code />` ☕
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+React+Enthusiast;Database+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
