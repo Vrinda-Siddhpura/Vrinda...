@@ -79,7 +79,7 @@ class Vrinda:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vrinda-Siddhpura&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vrinda-Siddhpura&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrinda-Siddhpura&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7" width="38%" />
 </div>
 
